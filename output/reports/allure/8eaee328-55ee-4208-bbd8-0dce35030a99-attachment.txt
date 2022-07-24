@@ -1,0 +1,1 @@
+[32mINFO    [0m test_methodOne:test_android_native.py:17 Assertion passed.

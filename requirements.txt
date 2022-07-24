@@ -1,0 +1,8 @@
+Appium-Python-Client
+pytest
+selenium
+pytest-rerunfailures
+behave
+allure-behave
+pytest-xdist
+request

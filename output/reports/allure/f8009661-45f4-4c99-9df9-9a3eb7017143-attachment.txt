@@ -1,0 +1,8 @@
+Check Whether device is locked or not : False
+Current Activity com.spplus.parking.develop
+Current Activity com.spplus.parking.presentation.splash.SplashActivity
+Current context NATIVE_APP
+Current orientation PORTRAIT
+No device found for the option you have chosen. Please choose an option between 'ios', 'android', 'ios-hybrid' or 'android-hybrid'.
+TEST HAS STARTED
+TEST HAS FINISHED
